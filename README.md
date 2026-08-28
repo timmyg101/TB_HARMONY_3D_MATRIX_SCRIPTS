@@ -3,6 +3,8 @@ Toon Boom Harmony 3D Matrix (raw 3D data & camera nulls) to Blender 3D
 By Tim Giovanni
 8.28.2026
 
+Tested with Toon Boom Harmony 25 and Blender 5.2
+
 📦 Installation
 
 
